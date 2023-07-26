@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/BollineniDineshRamChowdary/CAWebsite/static/css/main.d7da34c1.css",
+    "main.js": "/BollineniDineshRamChowdary/CAWebsite/static/js/main.27e2d4dd.js",
+    "static/media/b2.jpeg": "/BollineniDineshRamChowdary/CAWebsite/static/media/b2.958dfaac9f458a587fdf.jpeg",
+    "static/media/svg-2.svg": "/BollineniDineshRamChowdary/CAWebsite/static/media/svg-2.1c5f966ac3980d4176c0feb6ae7efa34.svg",
+    "static/media/svg-1.svg": "/BollineniDineshRamChowdary/CAWebsite/static/media/svg-1.eea8fb509ee8d50c6af1ded72bdefe22.svg",
+    "static/media/svg-3.svg": "/BollineniDineshRamChowdary/CAWebsite/static/media/svg-3.0b88cfb5800c2ef598d3d5917089fed7.svg",
+    "index.html": "/BollineniDineshRamChowdary/CAWebsite/index.html",
+    "main.d7da34c1.css.map": "/BollineniDineshRamChowdary/CAWebsite/static/css/main.d7da34c1.css.map",
+    "main.27e2d4dd.js.map": "/BollineniDineshRamChowdary/CAWebsite/static/js/main.27e2d4dd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7da34c1.css",
+    "static/js/main.27e2d4dd.js"
+  ]
+}
