@@ -12,10 +12,10 @@ import {
   ServicesP
 } from './ServicesElements'
 
-const Services = () => {
+const Team = () => {
   return (
-    <ServicesContainer id='services'>
-        <ServicesH1> Our Services </ServicesH1>
+    <ServicesContainer id='ourteam'>
+        <ServicesH1> Our Team </ServicesH1>
         <ServicesWrapper>
             <ServicesCard>
               <ServicesIcon src={Icon1}/>
@@ -72,4 +72,4 @@ const Services = () => {
   )
 }
 
-export default Services
+export default Team

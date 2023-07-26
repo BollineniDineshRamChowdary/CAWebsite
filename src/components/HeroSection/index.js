@@ -1,10 +1,10 @@
 import React, { useState } from 'react'
 // pexels.com for free stock videos
-import Video from '../../videos/video.mp4'
+import Icon5 from '../../images/b2.jpeg'
 import {
     HeroContainer,
     HeroBg,
-    VideoBg,
+    ImageBg,
     HeroContent,
     HeroH1,
     HeroP,
@@ -26,13 +26,12 @@ const HeroSection = () => {
     return (
         <HeroContainer id="home">
             <HeroBg>
-                <VideoBg autoPlay loop muted src={Video} type='video/mp4'/>
+                <ImageBg src={Icon5}/>
             </HeroBg>
             <HeroContent>
-                <HeroH1> Experience the guga </HeroH1>
+                <HeroH1> CHARTERED ACCOUNTANTS </HeroH1>
                 <HeroP> 
-                    Sign up for a new account today and receive 
-                    free access to the world's first interactive guga.
+                    We are here to service you. Please signup for any accounts related service we will reach you
                 </HeroP>
                 <HeroBtnWrapper>
                     <Button 
